@@ -1,4 +1,4 @@
-# Hi there, I'm Arpachshadz 🐾
+# Hi there, I'm Arpachshadz
 
 I'm a **Full-Stack Web Developer** with 3+ years of experience, passionate about building scalable and user-friendly applications. I love diving deep into **system design**, **software architecture**, and finding the most elegant ways to build robust applications.
 
@@ -59,14 +59,14 @@ In these projects, I worked primarily on the frontend using Vue.js in two of the
 
 ---
 
-## 📚 Fun Fact
+## Fun Fact
 
 I genuinely enjoy reading... even documentation!  
 There's something calming about exploring the depths of a framework’s design decisions.
 
 ---
 
-## 🐱‍👤 Let’s Connect
+## Let’s Connect
 
 While I’m not active on social media professionally, feel free to follow along here on GitHub. I’ll be sharing more soon 🚀
 
